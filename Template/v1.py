@@ -1,4 +1,3 @@
 class Solution:
-    @staticmethod
-    def method():
+    def method(self):
         pass
